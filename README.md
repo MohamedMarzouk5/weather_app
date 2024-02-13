@@ -1,6 +1,3 @@
-# weather app
-
-A Weather App.
 
 ## Getting Started
 
