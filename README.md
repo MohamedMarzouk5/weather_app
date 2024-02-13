@@ -8,7 +8,7 @@
 
 -Getx as statemanagement & routing
 
--Dio packeges for requests
+-Dio packege for requests
 
 -project structure (model, view, controller, core)
 
