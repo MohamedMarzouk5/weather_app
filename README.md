@@ -7,7 +7,7 @@ A Weather App.
 
 -I coded 3 screens (splash , Home & Weather Details)
 
--I use http://api.weatherapi.com/v1   for call request
+-I use http://api.weatherapi.com/v1
 
 -Getx as statemanagement & routing
 
