@@ -1,4 +1,4 @@
-# weather_app_task_mohamed_ebrahim
+![Screenshot_1707857301](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/59108ded-547c-4dfe-af0f-09aaf1ba6539)# weather_app_task_mohamed_ebrahim
 
 A Weather App.
 
@@ -16,8 +16,10 @@ A Weather App.
 -project structure (model, view, controller, core)
 
 
+Splash           Home
 
 
-![splash](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/4ea43457-b307-4fc5-83b8-164093370925)
+![splash](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/4ea43457-b307-4fc5-83b8-164093370925)    ![Screenshot_1707857301](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/b39487a5-0e44-4553-9fb8-3208de9453b6)
+
 
 
