@@ -15,11 +15,24 @@ A Weather App.
 
 -project structure (model, view, controller, core)
 
+-use geolocator to get Current Location
 
-Splash           Home
+
+Splash           
+
+![splash](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/4ea43457-b307-4fc5-83b8-164093370925)   
+
+Home
+
+![Screenshot_1707857301](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/9c81603f-f406-4292-b7e1-4d55353370ab)
+
+Details
 
 
-![splash](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/4ea43457-b307-4fc5-83b8-164093370925)    ![Screenshot_1707857301](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/b39487a5-0e44-4553-9fb8-3208de9453b6)
+![Screenshot_1707857308](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/66fc7ef2-2a69-402b-b9ac-135ca1d2dda8)
 
+reload before home page
+
+![Screenshot_1707857296](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/35242380-f160-4bd8-96cd-81777738350c)
 
 
