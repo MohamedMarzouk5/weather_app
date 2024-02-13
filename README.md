@@ -4,7 +4,7 @@
 
 -I coded 3 screens (splash , Home & Weather Details)
 
--I use http://api.weatherapi.com/v1
+-I use http://api.weatherapi.com/v1  the api is not accurate
 
 -Getx as statemanagement & routing
 
