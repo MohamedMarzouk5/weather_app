@@ -18,5 +18,6 @@ A Weather App.
 
 
 
+![splash](https://github.com/MohamedMarzouk5/weather_app/assets/149074643/4ea43457-b307-4fc5-83b8-164093370925)
 
 
