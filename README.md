@@ -1,5 +1,5 @@
 
-## Getting Started
+## :+1: Getting Started
 
 
 -I coded 3 screens (splash , Home & Weather Details)
